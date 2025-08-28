@@ -1,0 +1,21 @@
+{
+    "font": {
+        "main": "mojangles.ttf"
+    },
+    "text": {
+        "ui.main-menu.play": "Play",
+        "ui.main-menu.options": "Options",
+        "ui.main-menu.exit": "Quit",
+        "ui.main-menu.profile": "Profile",
+        "ui.popup.dialogue.confirm": "Confirm",
+        "ui.popup.dialogue.cancel": "Cancel",
+        "ui.popup.exit-confirm.content": "Are you sure you want to exit the game?",
+        "ui.popup.exit-confirm.confirm": "Sure",
+        "ui.popup.exit-confirm.cancel": "Nope",
+        "ui.popup.notice.confirm": "Okay",
+        "ui.popup.notice.fatal-error.content": "A fatal error has occurred and the game is about to exit!\nMore Information:\"{0}\"",
+        "sp.interact-hint.mouse": "Interact with <Sprite>!",
+        "sp.interact-hint.touch": "Click to interact!",
+        "sp.interact-hint.gamepad": "Move <Sprite> to switch between targets then press <Sprite> to interact!"
+    }
+}

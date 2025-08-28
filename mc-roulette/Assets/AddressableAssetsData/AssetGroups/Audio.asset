@@ -1,0 +1,337 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Audio
+  m_EditorClassIdentifier: 
+  m_GroupName: Audio
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cf5ea8f4ca9ceea41ad4352aedfd068f
+  m_SerializeEntries:
+  - m_GUID: 0af2ade848f897f42be6440f3e0685f5
+    m_Address: Audio/sfx_mc_minecart_loop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10472c022bd08934888a8d3cbe791619
+    m_Address: Audio/sfx_mc_piston_out
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14ab1d73e81d88f488e2cabe6ddcc4ee
+    m_Address: Audio/bgm_mc_floating-trees
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Music
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18a819e2e806d93459d791e19582ad78
+    m_Address: Audio/sfx_mc_click
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1de97a2257adbcd4086752f6982a61ed
+    m_Address: Audio/sfx_mc_drink_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fb5c05e95657f14c8992a2e317c4d9f
+    m_Address: Audio/sfx_mc_footstep_stone_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 250b11d1267e7f1429e13f1857236b19
+    m_Address: Audio/bgm_mc_ward
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Music
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2799c2b3557557a49bf6896876d596ce
+    m_Address: Audio/sfx_mc_footstep_stone_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 305091c5e43f7154386b48178659a682
+    m_Address: Audio/sfx_mc_eat_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3da7596cdb8f61d49957c3aba1b16857
+    m_Address: Audio/sfx_mc_drink_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3de14f241ca697649a6df5e44c6424ef
+    m_Address: Audio/sfx_mc_eat_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41bbdd453b7a2394287cb337c3805718
+    m_Address: Audio/sfx_mc_footstep_stone_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45ae8ec6d2e60ca48b56f389c339eeee
+    m_Address: Audio/sfx_mc_irondoor_close_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48a05ec2f25ea1d4183a2ae319e5497c
+    m_Address: Audio/bgm_br_round_final_interrupted
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Music
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ef1d63656f17504889bc398864d8266
+    m_Address: Audio/bgm_br_round_first
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Music
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5026107f2dd3efb4281539f6ac507869
+    m_Address: Audio/sfx_mc_footstep_stone_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52bff16cf5dcf374dbf0906dc92ca886
+    m_Address: Audio/sfx_mc_brew_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54d9ee0b1470cc54e9ffcd523eb3f844
+    m_Address: Audio/sfx_mc_chest_close
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57a9d374294fd514182564db4f2d1ee0
+    m_Address: Audio/sfx_mc_footstep_stone_6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c27adb2373b19a4492370e2e070caa6
+    m_Address: Audio/sfx_mc_irondoor_close_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64d864188f4e246419140ff898770534
+    m_Address: Audio/sfx_buzzinglight
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 652df46e4cfd5ad4892623fc38a487c9
+    m_Address: Audio/sfx_achievement
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72f414117c631a040a6b6d3abf218b9c
+    m_Address: Audio/bgm_br_round_final
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Music
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74462863de8cc3146baf60e1c435fe65
+    m_Address: Audio/bgm_br_cashout
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Music
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a7dad2ffd9892a4e8a8c7026dc71c58
+    m_Address: Audio/bgm_mc_mutation
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Music
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7dfe7e0adae75c14ea4a88ca83d5aa85
+    m_Address: Audio/sfx_mc_footstep_stone_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7faeb54e9e3990445b61f79a2cb81668
+    m_Address: Audio/sfx_mc_chest_open.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8de7e35ee8f762442b36ee2da9292da7
+    m_Address: Audio/bgm_mc_moog-city-2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Music
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 972894ed84d66194183e4d139a02f624
+    m_Address: Audio/bgm_br_round_second_interrupted
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Music
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a91a720821c7e6d41ac8600aa98ea91e
+    m_Address: Audio/sfx_br_god
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab4592116bfca5b4f93bab9de24d03b9
+    m_Address: Audio/bgm_mc_otherside
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Music
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac44e5aae6e6c0046923eb957dc80682
+    m_Address: Audio/bgm_br_round_second
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Music
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adb4b01ccd0f6a1479621f58099809a7
+    m_Address: Audio/sfx_mc_eat_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae957ed8f3f26c049897ee220f55027a
+    m_Address: Audio/sfx_mc_drink_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aec3c20427d74054a8c67cccd72761db
+    m_Address: Audio/sfx_mc_drink_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c29223127f358794f8e29309d01540ea
+    m_Address: Audio/sfx_mc_eat_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2d4ccd9e5b51934e9035021039bd6b3
+    m_Address: Audio/sfx_mc_irondoor_open_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c69cf7c4b9339864b81b939d2cfd42cf
+    m_Address: Audio/bgm_br_theme
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Music
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8a250cf910f3fa4c9ede384032d1c1e
+    m_Address: Audio/sfx_mc_totem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d61410d75e9e9e14baf68b8f864b0aa3
+    m_Address: Audio/sfx_checkitem_up
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6b175338086c2f4a879bbc9e5398a2d
+    m_Address: Audio/sfx_mc_irondoor_open_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d72ed4b031f69b84d822391fbd7f4643
+    m_Address: Audio/sfx_mc_irondoor_close_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da788fd4f3f7019438a15a8b62ecf82c
+    m_Address: Audio/bgm_mc_beginning-2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Music
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dba3d1396dc608f4494489def41f41b7
+    m_Address: Audio/sfx_checkitem_down
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e34267d8e8b47f449b825213c2a66dfb
+    m_Address: Audio/sfx_mc_piston_in
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e76ce556a62f359429a45747e59d9f13
+    m_Address: Audio/sfx_mc_irondoor_open_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ece587c3bc23913419ddc5d5cc55c686
+    m_Address: Audio/sfx_mc_brew_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef5abc46a02429c4cbe77d017205619b
+    m_Address: Audio/bgm_br_round_first_interrupted
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Music
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f18761ddd1ce0424e9170fcdd077885a
+    m_Address: Audio/sfx_flush-the-toilet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6e2d9dad9082d44fb28af9d2972cd3b
+    m_Address: Audio/bgm_br_heaven
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Music
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa8df3fbb03bb584dbc40558a0b99a14
+    m_Address: Audio/sfx_mc_irondoor_open_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb8ce1b59e3214d499c29a52c129af6f
+    m_Address: Audio/sfx_mc_irondoor_close_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sound
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b5e83f410984bbd4493311fa8899638c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 41b45695262c9e64daa977711885ff41, type: 2}
+    - {fileID: 11400000, guid: bb2bccfa01f32cf428d1f2e293bd5c6d, type: 2}

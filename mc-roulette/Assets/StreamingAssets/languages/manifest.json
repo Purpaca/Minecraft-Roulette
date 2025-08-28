@@ -1,0 +1,10 @@
+[
+    {
+        "culture": "English",
+        "path": "en.json"
+    },
+    {
+        "culture": "简体中文",
+        "path": "cn_simplified.json"
+    }
+]

@@ -1,7 +1,6 @@
 using System;
 using System.IO;
 using UnityEngine;
-using UnityEngine.AddressableAssets;
 
 /// <summary>
 /// 玩家个性化皮肤
@@ -21,8 +20,10 @@ public class Persona
                 path = "Textures/Alex";
                 break;
         }
-        Texture2D texture = Addressables.LoadAssetAsync<Texture2D>(path).WaitForCompletion();
-        return texture;
+
+        return null;
+        //Texture2D texture = Addressables.LoadAssetAsync<Texture2D>(path).WaitForCompletion();
+        //return texture;
     }
 
     /// <summary>
